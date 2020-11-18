@@ -1,9 +1,9 @@
 # nama-mamadoh-10-APm
 #first repo
 
-1.Asd1
+1. Asd1
 
-2.Asd2
+2. Asd2
 
 3.Asd3
 
